@@ -1,0 +1,144 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:background="@drawable/heyooo"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="vertical"
+		android:layout_weight="9">
+		<LinearLayout
+			android:id="@+id/log_layout"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="50dp"
+			android:background="@drawable/heyooo"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical">
+
+			<ImageView
+				android:layout_width="289dp"
+				android:layout_height="166dp"
+				android:src="@drawable/loogo"></ImageView>
+
+			<EditText
+				android:id="@+id/log_email"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:textSize="18sp"
+				android:textColor="#000000"
+				android:hint="Enter your email"
+				android:textColorHint="#607D8B"
+				android:singleLine="true"
+				android:imeOptions="actionNext"/>
+			<EditText
+				android:id="@+id/log_pass"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:textSize="18sp"
+				android:textColor="#000000"
+				android:hint="Password here!"
+				android:textColorHint="#607D8B"
+				android:singleLine="true"
+				android:inputType="textPassword"
+				android:imeOptions="actionDone"/>
+			<Button
+				android:id="@+id/log_btn"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="15dp"
+				android:padding="8dp"
+				android:background="#4CAF50"
+				android:text="Login"
+				android:textSize="16sp"
+				android:textColor="#FFFFFF"/>
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/reg_layout"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="50dp"
+			android:background="@drawable/heyooo"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical">
+
+			<ImageView
+				android:layout_width="290dp"
+				android:layout_height="68dp"
+				android:src="@drawable/loogo"></ImageView>
+
+			<EditText
+				android:id="@+id/reg_name"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:textSize="18sp"
+				android:textColor="#000000"
+				android:hint="Your Name"
+				android:textColorHint="#607D8B"
+				android:singleLine="true"
+				android:imeOptions="actionNext"/>
+			<EditText
+				android:id="@+id/reg_email"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:textSize="18sp"
+				android:textColor="#000000"
+				android:hint="Enter your email"
+				android:textColorHint="#607D8B"
+				android:singleLine="true"
+				android:imeOptions="actionNext"/>
+			<EditText
+				android:id="@+id/reg_pass"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:textSize="18sp"
+				android:textColor="#000000"
+				android:hint="Password here!"
+				android:textColorHint="#607D8B"
+				android:singleLine="true"
+				android:inputType="textPassword"
+				android:imeOptions="actionDone"/>
+			<Button
+				android:id="@+id/reg_btn"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="15dp"
+				android:padding="8dp"
+				android:background="#F44336"
+				android:text="Register"
+				android:textSize="16sp"
+				android:textColor="#FFFFFF"/>
+		</LinearLayout>
+	</LinearLayout>
+	<LinearLayout
+		android:id="@+id/linear4"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="horizontal"
+		android:layout_weight="1">
+		<Button
+			android:id="@+id/shift"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:background="#3F51B5"
+			android:text="Register here!!"
+			android:textSize="16sp"
+			android:textColor="#FFFFFF"/>
+	</LinearLayout>
+</LinearLayout>

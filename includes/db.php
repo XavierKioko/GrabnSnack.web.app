@@ -1,7 +1,7 @@
 <?php
 $dbhost = "localhost"; //Database host
-$dbuser = "id17246858_ecom_store"; //Database Username
-$dbpass = "uQKJp(<4ckAlw]8j"; //Database Password
-$dbname = "id17246858_grabnsnackdatabase"; //Database name
+$dbuser = "0dN9lvuYtq"; //Database Username
+$dbpass = "VpnwMb9Fg2"; //Database Password
+$dbname = "0dN9lvuYtq"; //Database name
 ?>
 

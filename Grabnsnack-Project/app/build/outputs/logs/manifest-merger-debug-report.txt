@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8789532da53cef23a133f2d3e71e584c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\4cbcbd825f28820bce29e156891c37fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\865f1f332597a633323706a9e3360082\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\e7103fbc61738ca3138e8e8827e8fb72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\4bbcfddca788982cc10b4e3e5ddca2a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\34db02fc0e765ffab7075197cf84cce2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\2eabb01e1cc88253ce64f890a23b6891\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\1b7eee48e8b03f3c7d24ecad41b24878\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\914fd1be4bec4d9990d26f5985703d93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\77c3747fd82570b9839330059b0b4618\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\379a7b9d76b933a03193c4db0cfe009a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8ab339d1c3c2d42b1a4a9856d1a4f431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\23deae689ae78f951a2cb64ed03b9ea7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\588e22138528fc3f23f79e7d5ee36020\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\98c9fd363061874145e30495c70c7313\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\d82db2052f5d15d5f20fe772bda07769\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3daa5e0569f42e1167132f5cd6bd92ef\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\21af5414eedcc000e2140a31d50868c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\cd40a5bb24ae638ca10a5aa382637604\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3002c33373f7496dad29c0ab932041fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\cbb4cf32f7e4f593d8df12357360398e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\e00f365799b69ac615084a56ec5113ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\9ba4bb5b991cfc381972a1dfafc21600\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\adbdbbcee2cacfe15d40b24bff6b0f83\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\279423e606f1cd0e3702aa45d3ed5789\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8f9a922a6cd4ad19580936352f5dcf09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\2177c8a408d3513dc5fca4bc15ee7ea2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:8:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8789532da53cef23a133f2d3e71e584c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8789532da53cef23a133f2d3e71e584c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\d82db2052f5d15d5f20fe772bda07769\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\d82db2052f5d15d5f20fe772bda07769\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3daa5e0569f42e1167132f5cd6bd92ef\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3daa5e0569f42e1167132f5cd6bd92ef\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\d82db2052f5d15d5f20fe772bda07769\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:11:9-38
+	android:largeHeap
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:12:9-33
+	android:icon
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:10:9-55
+	android:allowBackup
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.my.newproject9.userprofile
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:15:9-58
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:15:19-46
+activity#com.my.newproject9.shoppingcart
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:16:9-50
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:16:19-47
+activity#com.my.newproject9.MainActivity
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:17:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:21:13-49
+	android:hardwareAccelerated
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:24:13-54
+	android:supportsPictureInPicture
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:22:13-52
+	android:configChanges
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:19:13-106
+	android:theme
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:23:13-46
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.my.newproject9.LoginActivity
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:31:9-37:57
+	android:screenOrientation
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:35:13-49
+	android:hardwareAccelerated
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:34:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:37:13-54
+	android:supportsPictureInPicture
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:36:13-52
+	android:configChanges
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:33:13-106
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:32:13-42
+activity#com.my.newproject9.ContentActivity
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:38:9-43:57
+	android:hardwareAccelerated
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:41:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:43:13-54
+	android:supportsPictureInPicture
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:42:13-52
+	android:configChanges
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:40:13-106
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:39:13-44
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:45:9-47:40
+	android:required
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml:46:13-50
+uses-sdk
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8789532da53cef23a133f2d3e71e584c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8789532da53cef23a133f2d3e71e584c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\4cbcbd825f28820bce29e156891c37fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\4cbcbd825f28820bce29e156891c37fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\865f1f332597a633323706a9e3360082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\865f1f332597a633323706a9e3360082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\e7103fbc61738ca3138e8e8827e8fb72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\e7103fbc61738ca3138e8e8827e8fb72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\4bbcfddca788982cc10b4e3e5ddca2a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\4bbcfddca788982cc10b4e3e5ddca2a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\34db02fc0e765ffab7075197cf84cce2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\34db02fc0e765ffab7075197cf84cce2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\2eabb01e1cc88253ce64f890a23b6891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\2eabb01e1cc88253ce64f890a23b6891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\1b7eee48e8b03f3c7d24ecad41b24878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\1b7eee48e8b03f3c7d24ecad41b24878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\914fd1be4bec4d9990d26f5985703d93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\914fd1be4bec4d9990d26f5985703d93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\77c3747fd82570b9839330059b0b4618\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\77c3747fd82570b9839330059b0b4618\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\379a7b9d76b933a03193c4db0cfe009a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\379a7b9d76b933a03193c4db0cfe009a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8ab339d1c3c2d42b1a4a9856d1a4f431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8ab339d1c3c2d42b1a4a9856d1a4f431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\23deae689ae78f951a2cb64ed03b9ea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\23deae689ae78f951a2cb64ed03b9ea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\588e22138528fc3f23f79e7d5ee36020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\588e22138528fc3f23f79e7d5ee36020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\98c9fd363061874145e30495c70c7313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\98c9fd363061874145e30495c70c7313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\d82db2052f5d15d5f20fe772bda07769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\d82db2052f5d15d5f20fe772bda07769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3daa5e0569f42e1167132f5cd6bd92ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3daa5e0569f42e1167132f5cd6bd92ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\21af5414eedcc000e2140a31d50868c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\21af5414eedcc000e2140a31d50868c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\cd40a5bb24ae638ca10a5aa382637604\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\cd40a5bb24ae638ca10a5aa382637604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3002c33373f7496dad29c0ab932041fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\3002c33373f7496dad29c0ab932041fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\cbb4cf32f7e4f593d8df12357360398e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\cbb4cf32f7e4f593d8df12357360398e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\e00f365799b69ac615084a56ec5113ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\e00f365799b69ac615084a56ec5113ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\9ba4bb5b991cfc381972a1dfafc21600\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\9ba4bb5b991cfc381972a1dfafc21600\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\adbdbbcee2cacfe15d40b24bff6b0f83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\adbdbbcee2cacfe15d40b24bff6b0f83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\279423e606f1cd0e3702aa45d3ed5789\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\279423e606f1cd0e3702aa45d3ed5789\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8f9a922a6cd4ad19580936352f5dcf09\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\8f9a922a6cd4ad19580936352f5dcf09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\2177c8a408d3513dc5fca4bc15ee7ea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\XAVIER\.gradle\caches\transforms-2\files-2.1\2177c8a408d3513dc5fca4bc15ee7ea2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XAVIER\AndroidStudioProjects\Grabnsnack-Project\app\src\main\AndroidManifest.xml
